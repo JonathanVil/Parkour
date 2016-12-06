@@ -1,0 +1,7 @@
+name: HubParkour
+main: xyz.jonathanvil.parkour.ParkourMain
+author: JonathanVil
+version: 0.1
+commands:
+  parkouradmin:
+    description: Set up parkours. (DEVELOPER REQUIRED)
